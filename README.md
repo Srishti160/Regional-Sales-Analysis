@@ -28,4 +28,4 @@ This project addresses that gap by building an interactive Power BI dashboard th
 ### 🔹 Product & Channel Performance
 ![Product Performance](images/product_performance.png)
 ### 🔹 Geographic & Customer Insights
-![Regional Customer Insights](customer_insights.png)
+![Regional Customer Insights](images/customer_insights.png)
